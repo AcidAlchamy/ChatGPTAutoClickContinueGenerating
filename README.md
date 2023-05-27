@@ -3,6 +3,8 @@ Just a python script that when loaded with an image of the "Continue Generating"
 
 https://chat.openai.com/share/1de46498-9e0f-4c63-ae47-bcc1cd379fa3
 
+pip install opencv-python-headless pyautogui
+
 https://imgur.com/a/tH1ZfkX
 
 Was working on another bigger task, and simply threw the prompt together real quick. Works perfectly.
